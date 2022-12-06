@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm BernatQi</h1>
 <h3 align="center">SEO Consultant (Website, Youtube, ASO for Apps, WPO) & WordPress Dev</h3>
 
-- 🔭 I’m currently working on [Market Place SEO & Dev](https://servipalast.es)
+- 🔭 I’m currently working on [ServiPlast](https://servipalast.es) & [BernatQi](https://bernatqi.dev)
 
 - 🌱 I’m currently learning **Software Engineering & Social Media Marketing**
 
