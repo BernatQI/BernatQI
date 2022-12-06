@@ -2,7 +2,7 @@
 <h3 align="center">SEO Consultant (Website, Youtube, ASO for Apps, WPO) & WordPress Dev</h3>
 <img src="https://github.com/BernatQI/BernatQI/blob/main/img/screenshot-seo-web-real-case.png">
 
-- 🔭 I’m currently working on [ServiPlast](https://servipalast.es) & [BernatQi](https://bernatqi.dev)
+- 🔭 I’m currently working on [ServiPlast](https://serviplast.es) & [BernatQi](https://bernatqi.dev)
 
 - 🌱 I’m currently learning **Software Engineering & Social Media Marketing**
 
