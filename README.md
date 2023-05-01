@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm BernatQi</h1>
-<h3 align="center">Fullstack Developer(JavaScript, PHP, Java, Docker, SQL) & SEO Consultant (Website, Youtube, ASO for Apps, WPO)</h3>
+<h3 align="center">Fullstack Developer (JavaScript, PHP, Java, Docker, SQL) & SEO Consultant (Website, Youtube, ASO for Apps, WPO)</h3>
 <!-- <img src="https://github.com/BernatQI/BernatQI/blob/main/img/screenshot-seo-web-real-case.png"> -->
 
 - 🔭 I’m currently working on [ServiPlast](https://serviplast.es) & [BernatQi](https://bernatqi.dev)
