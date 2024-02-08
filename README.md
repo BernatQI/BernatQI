@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on [Elabs Consulting](https://www.elabsconsulting.com/), [ServiPlast](https://serviplast.es) & [BernatQi](https://bernatqi.dev)
 
-- 💬 Ask me about **SEO, WordPress Themes & Plugins, Javascript, PHP & Java**
+- 💬 Ask me about **Technical SEO, WordPress Themes & Plugins, Javascript, PHP & Java**
 
 - 📫 How to reach me **bernat@bernatqi.dev**
 
