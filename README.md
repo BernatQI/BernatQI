@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bernat</h1>
-<h3 align="center">Fullstack Developer (JavaScript & PHP) | Technical SEO Consultant (Websites, Local & Performance)</h3>
+<h3 align="center">Technical SEO (Websites, Local & Performance) | Fullstack Developer (JavaScript & PHP)</h3>
 <!-- <img src="https://github.com/BernatQI/BernatQI/blob/main/img/screenshot-seo-web-real-case.png"> -->
 
 - 🔭 I’m currently working on [Schneider Electric](https://se.com/), [MarketPlastics](https://marketplastics.com) & [BernatQi](https://bernatqi.dev)
