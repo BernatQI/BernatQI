@@ -6,11 +6,12 @@
 
 - 💬 Ask me about **Technical SEO, WordPress (Themes & Plugins), Javascript & PHP**
 
-- 📫 How to reach me **bernat@bernatqi.dev**
+- 📫 How to reach me **[bernat@bernatqi.dev](mailto:bernat@bernatqi.dev)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/bernat-poca-uterga" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bernat-poca-uterga" height="30" width="40" /></a>
+<a href="https://g.dev/bernatqi" target="blank"><img align="center" src="https://www.svgrepo.com/show/353810/google-developers.svg" alt="bernatqi-google" height="30" width="40" /></a>
 <a href="https://twitter.com/bernatqi_seodev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bernatqi_seodev" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/bernatqi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="bernatqi" height="30" width="40" /></a>
 <a href="https://instagram.com/bernatqi_seo_dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bernatqi_seo_dev" height="30" width="40" /></a>
