@@ -4,9 +4,9 @@
 
 - 🔭 I’m currently working on [Schneider Electric](https://www.se.com/), [MarketPlastics](https://marketplastics.com/) & [BernatQi](https://bernatqi.dev)
 
-- 💬 Ask me about **Technical SEO, WordPress (Themes & Plugins), Javascript & PHP**
+- 💬 Ask me about **Technical SEO, WordPress (Themes & Plugins), Javascript & PHP**.
 
-- 📫 How to reach me **[bernat@bernatqi.dev](mailto:bernat@bernatqi.dev)**
+- 📫 How to reach me **[bernat@bernatqi.dev](mailto:bernat@bernatqi.dev)**.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
