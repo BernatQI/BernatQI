@@ -2,7 +2,7 @@
 <h3 align="center">Technical SEO (Websites, Local & Performance) | Fullstack Developer (JavaScript & PHP)</h3>
 <!-- <img src="https://github.com/BernatQI/BernatQI/blob/main/img/screenshot-seo-web-real-case.png"> -->
 
-- 🔭 I’m currently working on [Schneider Electric](https://www.se.com/), [MarketPlastics](https://marketplastics.com) & [BernatQi](https://bernatqi.dev)
+- 🔭 I’m currently working on [Schneider Electric](https://www.se.com/), [MarketPlastics](https://marketplastics.com/) & [BernatQi](https://bernatqi.dev)
 
 - 💬 Ask me about **Technical SEO, WordPress Themes & Plugins, Javascript & PHP**
 
