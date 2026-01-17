@@ -15,7 +15,7 @@
 </a>
 <a href="https://g.dev/bernatqi" target="blank"><img align="center" src="https://www.svgrepo.com/show/353810/google-developers.svg" alt="bernatqi-google" height="30" width="40" />
 </a>
-<a href="https://twitter.com/bernatqi_seodev" target="blank"><img align="center" src="https://cdn.simpleicons.org/x/white" alt="bernatqi_seodev" height="30" width="30" />
+<a href="https://twitter.com/bernatqi_seodev" target="blank"><img align="center" src="https://cdn.simpleicons.org/x/white" alt="bernatqi_seodev" height="22" width="22" />
 </a>
 <a href="https://www.youtube.com/c/bernatqi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="bernatqi" height="30" width="40" />
 </a>
