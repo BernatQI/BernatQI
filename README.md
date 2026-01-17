@@ -1,9 +1,11 @@
-<h1 align="center">Hi 👋, I'm Bernat</h1>
-<h3 align="center">Software Engineer | Fullstack AI Developer</h3>
+<h1 align="center">Hi 👋, I'm Bernat Poca</h1>
+<h2 align="center">Software Engineer | Fullstack AI Developer</h3>
+
+<p align="center">I'm a software engineer with a passion for building scalable and maintainable web applications on the cloud (AWS & GCP). I have experience working with a variety of technologies, including JavaScript, React, TypeScript, Python, PHP, and AI.</p>
 
 - 🔭 I’m currently working on [Schneider Electric](https://www.se.com/), [MarketPlastics](https://marketplastics.com/) & [BernatQi](https://bernatqi.dev)
 
-- 💬 Ask me about **Javascript, TypeScript, Python, PHP & AI**.
+- 💬 Ask me about **Javascript, React, TypeScript, Python, PHP & AI**.
 
 - 📫 How to reach me **[bernat@bernatqi.dev](mailto:bernat@bernatqi.dev)**.
 
